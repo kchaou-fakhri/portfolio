@@ -523,6 +523,9 @@ b, strong {
   .animated-item {
     font-size: 30px;
   }
+  .animated-item {
+    min-width: 350px;
+  }
 
   .custom-btn-group {
     text-align: center;
